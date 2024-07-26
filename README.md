@@ -17,10 +17,3 @@ In each assignment, we were given a problem statement after being taught some me
 + [<u>Assignment 2:</u>](https://github.com/sahilkur22/CS771--Group-Project/tree/main/ASSIGNMENT-2) This assignment involves developing an ML algorithm to predict a sequence of words given a list of bigrams. We chose a decision tree classifier for its simplicity and interpretability.
   
 <br>
-
-* A1 : 
-* A2 : 
-## Acknowledgements
-*
-*
-*
